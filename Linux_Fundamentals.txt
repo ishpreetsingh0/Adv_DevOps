@@ -1,3 +1,11 @@
 Linux Architecture:
 Hardware>Kernel>Shell>Applications.
 AMI is amazon machine image of various architectures.
+open ssh= pem files
+putty= ppk files
+/bin folder holds all the binaries ie commands that can be used on that machine.
+/var/lib is folder location where it bydefault finds package.
+os=linux
+kernel=linux
+falvour=centos/ubuntu
+
