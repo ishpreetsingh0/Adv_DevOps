@@ -8,4 +8,11 @@ putty= ppk files
 os=linux
 kernel=linux
 falvour=centos/ubuntu
+basic cmds
+>>uname
+>>ls -ltr
+>>mkdir
+>>cp
+>>mv
+>>sudo apt install <app>
 
