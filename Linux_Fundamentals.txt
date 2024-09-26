@@ -1,0 +1,3 @@
+Linux Architecture:
+Hardware>Kernel>Shell>Applications.
+AMI is amazon machine image of various architectures.
